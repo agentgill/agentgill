@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in the Clouds - Salesforce, AWS, Azure...
+- 🌱 I’m currently learning Serverless patterns across multiple public Clouds
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Salesforce
+- 📫 How to reach me: Not on LinkedIn
+- 😄 Pronouns: HIM
+- ⚡ Fun fact: I don't really like technology LOL
+
 <!--
 **agentgill/agentgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
