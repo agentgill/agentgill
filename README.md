@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working in the Clouds - Salesforce, AWS, Azure...
 - 🌱 I’m currently learning Serverless patterns across multiple public Clouds
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on cool cloudy things
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Salesforce
 - 📫 How to reach me: Not on LinkedIn
-- 😄 Pronouns: HIM
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I don't really like technology LOL
 
 <!--
