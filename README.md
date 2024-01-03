@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🏥 🚑 ⚕️ CTO for Healthcare Tech Startup - Revolutionizing Medical Records Management 
 - 🔭 I’m currently working in the Clouds - Amazon Web Services, Salesforce, OpenAI
 - 🌱 I’m currently learning Python, Langchain, OpenAI & Serverless patterns across multiple public Clouds
 - 👯 I’m looking to collaborate on cool cloudy & AI things
